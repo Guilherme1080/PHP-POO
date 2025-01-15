@@ -17,10 +17,8 @@
         <input type="submit" value="LOGAR"><br>
 
         <a href="cadastro.php">Cadastra-se</a>
-
-
-
     </form>
+
     
 </body>
 </html>
